@@ -1,0 +1,19 @@
+{
+  "name": "currence_convertor",
+  "version": "1.0.0",
+  "description": "this is currency convertor programe",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Aamir Ali Shah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
